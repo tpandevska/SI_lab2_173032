@@ -8,7 +8,8 @@
 
 ###  Control Flow Graph
 
-Фотографија од control flow graph-ot 
+Фотографија од control flow graph-ot: 
+http://prntscr.com/sz26bx
 
 ### Цикломатска комплексност
 
